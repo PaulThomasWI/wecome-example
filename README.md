@@ -1,1 +1,1 @@
-# wecome-example
+# welcome-example
